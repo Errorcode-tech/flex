@@ -1,0 +1,74 @@
+body{
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.one img{
+    width: 15%;
+    height: 10%;
+    margin: 10px;
+}
+
+.one .one{
+
+    height: 10%;
+    width: 15%;
+    margin: 10px;
+}
+
+
+.one{
+    background-image: url(photos/Image20241215202408.jpg);
+    color: grey;
+}
+
+.two{
+    text-align: center;
+}
+
+.two div{
+    width: 20%;
+    height: 175px;
+    display: inline-block;
+    
+}
+
+.two .one{
+    
+    background-color: antiquewhite;
+}
+
+.two .two{
+    background-color: beige;
+}
+
+
+.two .five{
+    background-color: bisque;
+}
+
+.two .four{
+    background-color: blanchedalmond;
+}
+
+.three{
+    width: 100%;
+    height: 600px;
+    background-image: url(photos/Image20241215202256.jpg);
+    background-size: cover;
+}
+.four h1{
+    display: inline-block;
+    margin: 20px;
+}
+
+.four{
+    position: fixed;
+    background-color: aliceblue;
+    color: rgb(231, 203, 169);
+    margin: 20px;
+}
+
+.four a{
+    margin: 10px;
+    color: rgb(221, 198, 170);
+}
